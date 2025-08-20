@@ -1,6 +1,6 @@
 import { useStore } from "../../zustand/store";
 import "./style.css";
-export default function CartCalculation({
+export default function SummaryCard({
   couponCode,
   isCouponApplied,
 }: {
