@@ -1,4 +1,4 @@
-Kart is an ecommorce projct for dummy and practice purpose it's open source who ever want to contribute and use it for there project they use this
+### Kart is an ecommorce projct for dummy and practice purpose it's open source who ever want to contribute and use it for there project they use this
 
 # React + TypeScript + Vite
 
