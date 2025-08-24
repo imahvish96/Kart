@@ -6,7 +6,7 @@ interface CartItem {
   price: number;
   description: string;
   category: string;
-  image: string;
+  images: Array<string>;
   rating: {
     rate: number;
     count: number;

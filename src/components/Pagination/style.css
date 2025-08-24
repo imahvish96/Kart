@@ -1,0 +1,9 @@
+.active {
+    background-color: #007bff;
+    color: #fff;
+}
+
+.pagination {
+    display: flex;
+    justify-content: center;
+}
