@@ -46,7 +46,11 @@ const Cart = () => {
             {cartItems.length > 0 ? (
               cartItems.map((item) => (
                 <div className="cart-item">
-                  <img src={item.image} alt="Product" className="item-image" />
+                  <img
+                    src={item.images[0]}
+                    alt="Product"
+                    className="item-image"
+                  />
                   <div className="item-details">
                     <h3 className="item-title">{item.title}</h3>
                     <p className="item-description">
