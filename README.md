@@ -1,6 +1,6 @@
 ### Kart is an ecommorce projct for dummy and practice purpose it's open source who ever want to contribute and use it for there project they use this
 
-# React + TypeScript + Vite
+# React + TypeScript + Vite + CSS
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
